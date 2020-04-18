@@ -24,5 +24,9 @@
     "ios": {
       "supportsTablet": true
     }
+  },
+  "android": {
+    "package": "com.swaravi.nebula",
+    "versionCode": 1
   }
 }
