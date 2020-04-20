@@ -1,0 +1,7 @@
+Setup, Publishing app- https://sapient.udemy.com/course/react-native-the-practical-guide/learn/lecture/
+basics- https://sapient.udemy.com/course/the-complete-react-native-and-redux-course/learn/lecture/
+
+timer app-https://nabendu.blog/posts/simple-timer-app-with-react-native-434i/
+
+Todo-
+restuarant search app using Zomato API- https://dev.to/nabendu82/restaurant-search-app-with-react-native-using-zomato-api-5g5b
